@@ -1,4 +1,4 @@
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/z1dr87k77510.gif " > <center>
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/z1dr87k77510.gif " > 
 
 
 
