@@ -288,14 +288,10 @@ body {
   background:linear-gradient(163deg,#fff 0%,#eaeaea 100%);
 }
 
-.fr.borderg {
+div.fr.borderg {
   display:none;
 }
 
-.fr.borderg,
-.fr.borderg a {
-  display:none;
-}
 
 .nav-tabs>li:hover {
   background-color:#000;
@@ -429,7 +425,7 @@ div#l1.grow.break.tab-pane.fade.active.in {
   margin-top:-2.8px !important;
   margin-left:160px !important;
   height:99px;
-  background-color:#68b37752;
+  background-color: #68b37752;
   background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent) !important;
   border-radius:7px;
 }
@@ -470,7 +466,7 @@ div#l3 {
   margin-left:160px !important;
   height:99px;
   border-radius:7px;
-  background-color:#98205f4a;
+  background-color: #68b37752;
   background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent) !important;
 }
 
