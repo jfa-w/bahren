@@ -563,16 +563,16 @@ width:20px !important;
 }
 
 .uban {
-  margin:-230px !important;
+  margin: -179px !important;
   width:60px !important;
-  margin-left:-108px !important;
+  margin-left: -325px !important;
   background-color:#FFF;
 }
 
 .ukick {
-  margin:-280px !important;
+  margin: -340px !important;
   width:60px !important;
-  margin-left:-108px !important;
+  margin-left: -326px !important;
   background-color:#FFF !important;
 }
 
@@ -648,4 +648,13 @@ div#l3 button.btn.btn-primary {
   background:linear-gradient(163deg,#1c585f 0%,#5ccad3 100%);
   margin-left:127px !important;
   margin-top:2px !important;
+}
+.fa-user-times {
+    margin: 0!important;
+    background-color: #FFF;
+    top: 93px!important;
+    transform: rotate(-90deg);
+    width: 123px!important;
+    position: absolute;
+    left: -41px;
 }
