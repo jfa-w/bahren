@@ -75,7 +75,7 @@ div#tlogins.hand.nosel.fl.uzr.border{width:88%!important;margin-top:5px!importan
 div#tlogins img.fr.co{/* float:left;*/
 display:inline;margin-top:13px;/* margin-left:3px;*/
 width:20px!important;height:10px;position:static;border-radius:3px!important;/* background:#d82e2e!important;*/}
-.uzr.fl.corner.borderg.hmsg.mm,.uzr.fl.corner.borderg.pmsgc.mm{background-color:#ffffff0a!important}
+.uzr.fl.corner.borderg.hmsg.mm,.uzr.fl.corner.borderg.pmsgc.mm{/* background-color: #378a47!important; */}
 .uban{margin:-340px!important;width:60px!important;margin-left:-106px!important;background-color:#FFF}
 .ukick{margin:-222px!important;width:60px!important;margin-left:-106px!important;background-color:#FFF!important}
 .btn.btn-success:focus,.btn.btn-primary:focus,.dots:focus,.bg:focus,textarea.fl.filw.corner.tbox:focus,input#pass1:focus,input#u1:focus,input#u3:focus,input#pass2:focus,input#u2:focus{outline:0;border-color:none;outline:0;-webkit-box-shadow:none;box-shadow:none}
