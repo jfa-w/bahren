@@ -473,5 +473,8 @@ label.ae.fa.label.fa-users.btnClAlGr.label-warning,label.ae.fa.label.fa-users.bt
     /* margin-left:1px;*/
     width: 100%;
     height: 550px;
-    border: 10px solid #1d6a9e;
+    border: 12px solid #1d6a9e;
+    border-top-style: double;
+    border-style: double;
+    border-radius: 10%;
     }
