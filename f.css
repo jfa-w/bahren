@@ -333,7 +333,7 @@ h3.popover-title,.fa-cog::before,.fa-commenting-o::before,.fa-group::before,span
 div#menu-l{height:55px;width:307px;float:left;position:absolute;top:-11px;right:-7px}
 .ae.fa.label.label-primary.fa-volume-up{padding:7px 10px 5px;margin-left:-4px!important;border-radius:0 3px 3px 0;border-style:solid;border-right-style:solid;border-right:4px solid;border-right-style:solid;border-right-style:ridge}}
 .fa-volume-up:before{content:"\f08a"}
-div#mic{background-image:url(https://jfa-w.net/sa/3.gif)!important;background-size:cover}
+div#mic{/* background-image:url(https://jfa-w.net/sa/3.gif)!important; *//* background-size:cover; */}
 div#mic{background-size:contain!important}
 .primaryborder{border-color:#7b5531!important;border-radius:0!important}
 button.fa.fa-sign-out.fl.btn.btn-primary{margin-top:0!important}
@@ -472,9 +472,11 @@ label.ae.fa.label.fa-users.btnClAlGr.label-warning,label.ae.fa.label.fa-users.bt
     /* padding:5px 0;*/
     /* margin-left:1px;*/
     width: 100%;
-    height: 550px;
-    border: 16px solid #1d6a9e;
+    height: 360px;
+    border: 12px solid #ce4605;
     border-top-style: double;
     border-style: double;
     border-radius: 10px;
+    border-right-width: medium;
+    border-left-style: hidden;
     }
